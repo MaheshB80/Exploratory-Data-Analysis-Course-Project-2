@@ -5,8 +5,7 @@ Answers for below questons
 Included coded .R files & PNG files for this questions
 
 Required data
-The code requires 2 files to run, summarySCC_PM25.rds and Source_Classification_Code.rds,
-downloaded here: Week 4 Assignment Data
+The code requires 2 files to run, summarySCC_PM25.rds and Source_Classification_Code.rds as given
 
 Questions
 
