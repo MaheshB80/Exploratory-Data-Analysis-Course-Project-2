@@ -4,6 +4,10 @@ Peer-graded Assignment: Course Project 2
 Answers for below questons
 Included coded .R files & PNG files for this questions
 
+Required data
+The code requires 2 files to run, summarySCC_PM25.rds and Source_Classification_Code.rds,
+downloaded here: Week 4 Assignment Data
+
 Questions
 
 1.Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5     emission from all sources for each of the years 1999, 2002, 2005, and 2008.
